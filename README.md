@@ -1,5 +1,5 @@
 # HR-Analytics-Repo
-my First Microsoft Power BI Dashboard analyzing Employees Attrition Reasons (HR Analytics), With the help of Power BI visualization tools.
+My First Microsoft Power BI Dashboard analyzing Employees Attrition Reasons (HR Analytics), With the help of Power BI visualization tools.
 
 Let's talk about the objective, conclusions, and project learnings that I've obtained from the analysis :
 
